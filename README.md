@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 光山县慧泉中学
 
 You can use the [editor on GitHub](https://github.com/lvdashi666/huiquan/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
